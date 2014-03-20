@@ -1,0 +1,26 @@
+{
+  "name": "route",
+  "version": "0.0.0",
+  "description": "a simple route",
+  "main": "route.js",
+  "dependencies": {
+    "bouncy": "~3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanwu/route.git"
+  },
+  "keywords": [
+    "route"
+  ],
+  "author": "gastrodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanwu/route/issues"
+  },
+  "homepage": "https://github.com/sanwu/route"
+}
